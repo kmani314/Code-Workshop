@@ -1,0 +1,56 @@
+Unit 01:
+	Introduction to code and FRC code
+	Introduction to Command Line
+		- bash
+		- basic commands and arguments
+			- Navigation
+				- cd
+				- ls
+				- pwd
+			- Creating Files and Directories
+				- mkdir
+				- rmdir (rm -rf)
+				- touch
+				- rm
+			- Editing Files (Vim, IDEs)
+		- basic directory structure in a unix system, .., ./, ~/, /, dotfiles	
+		- subcommands
+		- flags
+		- man
+		- file permissions
+		- sudo
+		- optional: vim
+	Introduction to Version Management
+		Git Introduction
+			- git init
+			Introduction to Staging
+				- git add, git reset
+			Introduction to Commiting
+				- git commit -m "..."
+			Introduction to Branching
+				- git branch, git checkout, git merge
+			Introduction to Pushing/Pulling on Github
+				- git clone, git pull, git push
+				- optional: git fetch
+		Github
+			- Repositories
+			- Collaboration
+			- Pull Requests
+		Normal Git Workflow
+			- Fork
+			- Pull Repo
+			- Make Branch
+			- Make Changes
+			- Add and Commit as you make major changes
+			- Merge with Master Branch
+			- Push when you're done
+			- Submit Pull Request
+			- Merge
+	Workshop:
+		- Fork this Repository on Github (Make an account if you don't have one)
+		- Pull the repo to your local machine
+		- Cd into the directory "files"
+		- Make a new file, name it your name and put something in it
+		- Commit the file, in the message say you added a file
+		- Push to Github
+		- Submit a pull request to the main repo
