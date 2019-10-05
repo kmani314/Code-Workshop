@@ -24,7 +24,7 @@ Unit 01:
 		Git Introduction
 			- git init
 			Introduction to Staging
-				- git add, git reset
+				- git status, git add, git reset
 			Introduction to Commiting
 				- git commit -m "..."
 			Introduction to Branching
